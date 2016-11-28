@@ -1,5 +1,3 @@
-![](../../wiki/assets/amazon-alexa.png)
-
 ## About the project
 
 This project provides a step-by-step walkthrough to help you build a **hands-free** [Alexa Voice Service](https://developer.amazon.com/avs) (AVS) prototype in 60 minutes, using wake word engines from [Sensory](https://github.com/Sensory/alexa-rpi) or [KITT.AI](https://github.com/Kitt-AI/snowboy).
@@ -11,11 +9,6 @@ Now, in addition to pushing a button to "start listening", you can now also just
 ## What is AVS?
 
 [Alexa Voice Service](https://developer.amazon.com/avs) (AVS) is Amazon’s intelligent voice recognition and natural language understanding service that allows you as a developer to voice-enable any connected device that has a microphone and speaker.
-
----
-
-## What's new?
-How is this different from the [last Amazon Alexa Pi project](https://github.com/alexa/alexa-avs-raspberry-pi/tree/79b7df7aaa4c5304446f59c0bd3ee2589b245115)? That's easy, two wake word engines are included with this project - [TrulyHandsFree](https://github.com/Sensory/alexa-rpi) from [Sensory](http://www.sensory.com/) and [Snowboy](https://github.com/Kitt-AI/snowboy) from  [KITT.AI](http://kitt.ai). When you're finished, you'll have a working voice-enabled AVS prototype.
 
 ---
 
@@ -35,11 +28,6 @@ How is this different from the [last Amazon Alexa Pi project](https://github.com
 
 ## Get Started
 
-You can set up this project on the following platforms. Please choose the platform you'd like to set this up on -
-
-* [Raspberry Pi](../../wiki/Raspberry-Pi), or
-* [Linux](../../wiki/Linux), or
-* [Mac](../../wiki/Mac), or
-* [Windows](../../wiki/Windows)
+* [Raspberry Pi](../../wiki/Raspberry-Pi)
 
 ---
