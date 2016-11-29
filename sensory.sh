@@ -1,5 +1,5 @@
 #!/bin/sh
 echo "start trigger"
 
-cd ~/Desktop/avs-sample/samples/wakeWordAgent/src
+cd ~/Desktop/alexa-avs-sample-app/samples/wakeWordAgent/src
 ./wakeWordAgent -e sensory &
